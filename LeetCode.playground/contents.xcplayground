@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <playground version='6.0' target-platform='ios' display-mode='raw'>
     <pages>
-        <page name='605. 种花问题'/>
-        <page name='344. 反转字符串'/>
         <page name='64. 求1+2+…+n'/>
+        <page name='990. 等式方程的可满足性'/>
+        <page name='46. 把数字翻译成字符串'/>
+        <page name='9. 回文数'/>
     </pages>
 </playground>
