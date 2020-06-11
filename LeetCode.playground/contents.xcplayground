@@ -5,5 +5,6 @@
         <page name='990. 等式方程的可满足性'/>
         <page name='46. 把数字翻译成字符串'/>
         <page name='9. 回文数'/>
+        <page name='739. 每日温度'/>
     </pages>
 </playground>
